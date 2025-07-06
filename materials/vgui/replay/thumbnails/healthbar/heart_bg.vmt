@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/replay/thumbnails/healthbar/heart_bg"
+	"$translucent" 1
+	"$vertexcolor" 1
+}

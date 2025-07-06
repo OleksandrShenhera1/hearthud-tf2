@@ -21,7 +21,7 @@ Scheme
 		// heart colors
 		"CenterMeter"	"66 143 216 255"
 		"CenterMeterBg"	"95 149 201 210"
-
+		"CenterMeterBgBlack" "0 0 0 255"
 		// base colors
 		"Orange"			"178 82 22 255"
 		"OrangeDim"			"178 82 22 120"
@@ -331,7 +331,7 @@ Scheme
 		ProgressBar.BgColor				"CenterMeterBg"
 
 		CircularProgressBar.FgColor		"CenterMeter"
-		CircularProgressBar.BgColor		"CenterMeterBg"
+		CircularProgressBar.BgColor		"CenterMeterBgBlack"
 		
 		"BuildingHealthBar.BgColor"		"HealthBgGrey"
 		"BuildingHealthBar.Health"		"ProgressOffWhite"
@@ -1229,6 +1229,15 @@ Scheme
 			{
 				"name"		"OCR A Extended"
 				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		"CustomAmmoBar24"
+		{
+			"1"
+			{
+				"name"		"OCR A Extended"
+				"tall"		"24"
 				"antialias" "1"
 			}
 		}

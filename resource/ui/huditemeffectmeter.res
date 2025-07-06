@@ -14,7 +14,7 @@
 		"wide"			"200"
 		"tall"			"200"
 		"MeterFG"		"CenterMeter"
-		"MeterBG"		"CenterMeterBg"
+		"MeterBG"		"0 0 0 255"
 	}
 	
 	"ItemEffectMeterBG"
@@ -62,22 +62,6 @@
 		"font"					"TFFontSmall"
 	}
 
-	"modulate"
-	{
-		"ControlName"			"ImagePanel"
-        "fieldName"				"modu"
-        "xpos"					"50"
-        "ypos"					"100"
-        "zpos"					"5"
-        "wide"					"100"
-        "tall"					"2"
-        "visible"				"0"
-        "alpha"					"255"
-		"image" 				"../materials/vgui/replay/thumbnails/itemeffects/modulate"        
-        "enabled"				"0"
-        "scaleImage"			"1"
-		"drawcolor"				"CenterMeter"
-	}
 
 	"ItemEffectMeter"
 	{	
