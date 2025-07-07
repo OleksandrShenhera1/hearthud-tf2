@@ -2903,6 +2903,30 @@ Scheme
 		//
 		//////////////////// ECON FONTS //////////////////////////////
 		//
+		"DamageFontSmall"
+		{
+			"1"
+			{
+				"name"		"VCR OSD Mono"
+				"tall"		"14"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+		"DamageFontCrit"
+		{
+			"1"
+			{
+				"name"		"VCR OSD Mono"
+				"tall"		"28"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
 		"EconFontSmall"
 		{
 			"1"
@@ -5878,6 +5902,11 @@ Scheme
 		{
 			"font" "resource/font/OCRAEXT.ttf"
 			"name" "OCR A Extended"
+		}
+		"19" // Vcr Osd Mono font
+		{
+			"font" "resource/font/VCR_OSD_MONO.ttf"
+			"name" "VCR OSD Mono"
 		}
 	}
 }

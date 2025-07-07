@@ -1,5 +1,9 @@
+
+#base Speedometer_Absolute.res
+
 "Resource/HudLayout.res"
 {
+	
 	HudPlayerStatus
 	{
 		"fieldName" "HudPlayerStatus"
